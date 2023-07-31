@@ -8,6 +8,10 @@ This is a simple one-page quiz application developed using HTML, CSS, and JavaSc
 - Multiple-choice questions with options.
 - Automatic scoring and display of the final result when you submit.
 
+## Live link 
+[Visit Quiz Application](https://keen-kitsune-364073.netlify.app/)
+
+
 ## How to Use
 
 1. Clone the repository or download the source code.
